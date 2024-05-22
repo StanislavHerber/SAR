@@ -1,3 +1,9 @@
+![image](https://github.com/StanislavHerber/SAR/assets/134272440/401e4413-11e2-4da9-80f3-ffd9cc8f0828)
+
+Introduction
+
+Pre-processing of Sentinel-1 imagery:
+
 In SNAP:
 
 1) open Sentinel-1 product in SNAP
