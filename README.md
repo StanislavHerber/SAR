@@ -1,4 +1,4 @@
-![image](https://github.com/StanislavHerber/SAR/assets/134272440/401e4413-11e2-4da9-80f3-ffd9cc8f0828)
+![image](https://github.com/StanislavHerber/SAR/assets/134272440/db81e86d-30d4-4224-abe2-c2d75b8bbf5c)
 
 Introduction
 
