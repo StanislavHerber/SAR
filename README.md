@@ -1,8 +1,8 @@
 ![image](https://github.com/StanislavHerber/SAR/assets/134272440/db81e86d-30d4-4224-abe2-c2d75b8bbf5c)
 
-Introduction
+# Introduction
 
-Pre-processing of Sentinel-1 imagery:
+# Pre-processing of Sentinel-1 imagery:
 
 In SNAP:
 
