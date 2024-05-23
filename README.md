@@ -28,7 +28,7 @@ Very useful free online material
 
 Basic SAR data pre-processing steps consist of:
 * Apply orbit files
-  ** Defines the relationship between ground and image coordinates,
+   * Defines the relationship between ground and image coordinates,
 improves accuracy of later orbit-based calibration steps.
 * Radiometric corrections
   ** Converts the image pixel values from digital number (DN) to a
