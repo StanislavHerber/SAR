@@ -19,6 +19,10 @@ This repository focuses on processing of Radar remote sensing data via SNAP or G
 
 
 
+# Basics of pre-processing of microwave imagery
+
+Very useful free online material
+[SAR Handbook](https://servirglobal.net/resources/sar-handbook) - The SAR Handbook: Comprehensive Methodologies for Forest Monitoring and Biomass Estimation</a>;
 
 # Pre-processing of Sentinel-1 imagery:
 
