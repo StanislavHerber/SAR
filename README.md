@@ -13,6 +13,8 @@ This repository focuses on processing of Radar remote sensing data via SNAP or G
 * [ARIA](http://aria-products.jpl.nasa.gov/) - Standard products of the Advanced Rapid Imaging and Analysis (ARIA) Project for Natural Hazards</a>;
 
 # Websites
+* [Theory of SAR](https://storymaps.arcgis.com/stories/20d8cd2ce11a4d5d81a8a65711d5ec29)</a>;
+* 
 ## Forums
 * [Sentinel-1 material](https://custom-scripts.sentinel-hub.com/custom-scripts/sentinel/sentinel-1/) - Copernicus Sentinel data processing and use cases</a>;
 
@@ -23,6 +25,7 @@ This repository focuses on processing of Radar remote sensing data via SNAP or G
 
 Very useful free online material
 [SAR Handbook](https://servirglobal.net/resources/sar-handbook) - The SAR Handbook: Comprehensive Methodologies for Forest Monitoring and Biomass Estimation</a>;
+[Other SAR resources](https://learnsar.open.uaf.edu/sar-resources/) - Different sources for studying SAR </a>;
 
 # Pre-processing of Sentinel-1 imagery:
 
