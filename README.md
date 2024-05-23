@@ -14,10 +14,10 @@ This repository focuses on processing of Radar remote sensing data via SNAP or G
 
 # Websites
 ## Forums
+* [Sentinel-1 material](https://custom-scripts.sentinel-hub.com/custom-scripts/sentinel/sentinel-1/) - Copernicus Sentinel data processing and use cases</a>;
 
 ## Training
-
-
+* [ASF traning](https://asf.alaska.edu/training-resources/) - Alaska Satellite Facility training resources</a>;
 
 # Basics of pre-processing of microwave imagery
 
@@ -35,6 +35,7 @@ improves accuracy of later orbit-based calibration steps.
 standard geophysical measurement unit of radar backscatter.
 * De-bursting
    * SAR scenes can be made up of multiple swaths or sections.
+   * Instead you can do TOPS deburst
 This step combines all swaths into a single image.
 * Multilooking
    * Uses spatial averaging to reduce image speckle noise and converts to ground range,
@@ -46,6 +47,15 @@ have specific filters that may work best. Unlike multilooking, this step does no
    * RTF: Uses a DEM to remove geometry-dependent radiometric distortions; normalizes measured backscatter with respect to terrain slope. Geocoding: Uses a DEM to remove geometric distortions such as foreshortening, layover, and shadow; connects the image to a geographic coordinate system.
 * Convert to dB (optional)
    * Linearly-scaled data is converted into decibels (dB) (optional).
+
+SLC images
+- coregistration - top SAR splir and apply orbut files
+- deburst
+- mulitlookung
+- terrain cor
+- speckle filter
+- terrain flattening
+- subset need to be at the end
 
 In SNAP:
 
