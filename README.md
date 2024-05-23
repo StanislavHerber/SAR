@@ -80,6 +80,8 @@ Workflow in SNAP
 * Radar -> geometric -> terrain correction -> Range-doppler terrain correction to make terrain corrections (Select Sigma0_VV and SRTM 1Sec HGT)
 * Color manipulation to manipulate the color scheme to visualize which areas were flooded
 
+# Task: with Lika i will try to process some SAR data with GEE and R scripting
+
 ```
 This is how to make block for codes or text to copy 
 ```
