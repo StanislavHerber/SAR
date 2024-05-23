@@ -68,6 +68,10 @@ In SNAP:
 
 It is possible to do all of these steps at once using SNAP Graph builder
 
+# Task: create a model of flood zones of the city Alessandria during flood event in November 2019
+* Input data: Pair of Sentinel 1 Images captured 25.11.2019 (during the flood event) and 8.3.2021 (normal situation)
+
+
 ```
 This is how to make block for codes or text to copy 
 ```
