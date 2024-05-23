@@ -12,6 +12,12 @@ This repository focuses on processing of Radar remote sensing data via SNAP or G
 * [WinSAR](https://sso.eoc.dlr.de/eoc/auth/login?service=https://download.geoservice.dlr.de/supersites/files/) - WInSAR consortium and GeoEarthScope Data</a>;
 * [ARIA](http://aria-products.jpl.nasa.gov/) - Standard products of the Advanced Rapid Imaging and Analysis (ARIA) Project for Natural Hazards</a>;
 
+# Websites
+## Forums
+
+## Training
+
+
 
 
 # Pre-processing of Sentinel-1 imagery:
