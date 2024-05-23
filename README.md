@@ -5,14 +5,12 @@ This repository focuses on processing of Radar remote sensing data via SNAP or G
 
 # Data archives
 
-1. <a href="https://asf.alaska.edu/">Alaska Satellite Facility</a>
-2. [Alaska](https://asf.alaska.edu/) - Alaska Satellite Facility</a>
-
-3. <a href="https://scihub.copernicus.eu/">Sentinel Scientific Data Hub</a>
-4. <a href="https://sso.eoc.dlr.de/eoc/auth/login?service=https://download.geoservice.dlr.de/supersites/files/">TerraSAR-X Geohazard Supersites EO Data Gateway</a>
-5. <a href="https://sso.eoc.dlr.de/eoc/auth/login?service=https://download.geoservice.dlr.de/supersites/files/">Geohazard Supersites and Natural Laboratories Virtual Archive</a>
-6. <a href="http://www.unavco.org/data/imaging/sar">WInSAR consortium and GeoEarthScope Data</a>
-7. <a href="http://aria-products.jpl.nasa.gov/">Standard products of the Advanced Rapid Imaging and Analysis (ARIA) Project for Natural Hazards</a>
+1. [ASF](https://asf.alaska.edu/) - Alaska Satellite Facility</a>
+2. [Sentinel](https://scihub.copernicus.eu/) - Sentinel Scientific Data Hub</a>
+3. [TerraSAR-X](https://sso.eoc.dlr.de/eoc/auth/login?service=https://download.geoservice.dlr.de/supersites/files/) - TerraSAR-X Geohazard Supersites EO Data Gateway</a>
+4. [TerraSAR-X](https://sso.eoc.dlr.de/eoc/auth/login?service=https://download.geoservice.dlr.de/supersites/files/) - Geohazard Supersites and Natural Laboratories Virtual Archive</a>
+5. [WinSAR](https://sso.eoc.dlr.de/eoc/auth/login?service=https://download.geoservice.dlr.de/supersites/files/) - WInSAR consortium and GeoEarthScope Data</a>
+6. [ARIA](http://aria-products.jpl.nasa.gov/) - Standard products of the Advanced Rapid Imaging and Analysis (ARIA) Project for Natural Hazards</a>
 
 
 
