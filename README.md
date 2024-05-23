@@ -28,26 +28,26 @@ Very useful free online material
 
 Basic SAR data pre-processing steps consist of:
 * Apply orbit files
-** Defines the relationship between ground and image coordinates,
+  ** Defines the relationship between ground and image coordinates,
 improves accuracy of later orbit-based calibration steps.
 * Radiometric corrections
-** Converts the image pixel values from digital number (DN) to a
+  ** Converts the image pixel values from digital number (DN) to a
 standard geophysical measurement unit of radar backscatter.
 * De-bursting
-** SAR scenes can be made up of multiple swaths or sections.
+  ** SAR scenes can be made up of multiple swaths or sections.
 This step combines all swaths into a single image.
 * Multilooking
-** Uses spatial averaging to reduce image speckle noise and converts to ground range,
+  ** Uses spatial averaging to reduce image speckle noise and converts to ground range,
 producing an image with a standard pixel size. Reduces image resolution (optional).
 * Speckle filtering
-** Removes noise, or speckle, in an image. Many types of speckle filters can be applied, and different applications
+  ** Removes noise, or speckle, in an image. Many types of speckle filters can be applied, and different applications
 have specific filters that may work best. Unlike multilooking, this step does not reduce spatial resolution (optional).
 * Terrain corrections: Radiometric Terrain Flattening (RTF) and geocoding
-** RTF: Uses a DEM to remove geometry-dependent radiometric distortions; normalizes measured backscatter with respect to terrain slope.
+  ** RTF: Uses a DEM to remove geometry-dependent radiometric distortions; normalizes measured backscatter with respect to terrain slope.
 Geocoding: Uses a DEM to remove geometric distortions such as foreshortening, layover, and shadow; connects the image to a
 geographic coordinate system.
 * Convert to dB (optional)
-** Linearly-scaled data is converted into decibels (dB) (optional).
+  ** Linearly-scaled data is converted into decibels (dB) (optional).
 
 In SNAP:
 
