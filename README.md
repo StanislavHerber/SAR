@@ -71,6 +71,14 @@ It is possible to do all of these steps at once using SNAP Graph builder
 # Task: create a model of flood zones of the city Alessandria during flood event in November 2019
 * Input data: Pair of Sentinel 1 Images captured 25.11.2019 (during the flood event) and 8.3.2021 (normal situation)
 
+Workflow in SNAP
+* Download S1 data: 25.11.2019 and 8.3.2019, GRDH type
+* radar -> apply orbit files to Apply orbit files
+* make subset
+* Radar -> calibration (select VV polarisation) to make radiometric calibration, output sigma band
+* Radar -> speckle filtering to remove speckle from image (Lee filter)
+* Radar -> geometric -> terrain correction -> Range-doppler terrain correction to make terrain corrections (Select Sigma0_VV and SRTM 1Sec HGT)
+* Color manipulation to manipulate the color scheme to visualize which areas were flooded
 
 ```
 This is how to make block for codes or text to copy 
